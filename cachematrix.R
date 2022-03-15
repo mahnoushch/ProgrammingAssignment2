@@ -1,15 +1,15 @@
-##
-## I simply set the input x as a matrix
-## and then set the solved value "s" as a null
-## then I changed every reference to "mean" to "solve"
+## Put comments here that give an overall description of what your
+## functions do
+
+## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-  
 
 }
 
-##
-## Same here, changed "mean" to "solve" and "m" to "s"
 
+## Write a short comment describing this function
 
+cacheSolve <- function(x, ...) {
+        ## Return a matrix that is the inverse of 'x'
 }
